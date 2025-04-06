@@ -1,3 +1,67 @@
 body {
-  background-color: aliceblue;
+  background-color:rgb(25, 11, 58);
+  background-image: url("https://stormandsky.com/gif/t4.gif")
+  
+}
+
+
+
+H1 {
+  text-align: center;
+  padding: .5rem;
+  border: #f8eca6 solid .3rem;
+
+}
+#title {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 2em;
+  color: rgb(25, 11, 58);
+  border: .5rem solid rgb(25, 11, 58);
+  background-color: #f8eca6;
+  padding: 1rem;
+}
+th   {
+  background-color: rgb(25, 11, 58);
+  padding: 1rem;
+  text-align: center;
+  font-family: "Rock Salt", cursive;
+  color: #f3d736;
+  text-decoration: underline;
+
+  tg {
+    background-color: rgb(25, 11, 58);
+    padding: 1rem;
+    text-align: center;
+    font-family: "Rock Salt", cursive;
+    color: #f3d736;
+    text-decoration: underline;
+  }
+}
+#table {
+  border-style: solid rgb(25, 11, 58);
+  border-width: 20px;
+  border-collapse: collapse;
+  background-color: #f8eca6;
+  padding: .5rem;
+  margin: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+#diagram {
+  text-align: center;
+  font-size: 2rem;
+  color: #f8eca6;
+  text-decoration: underline;
+}
+
+#footer {
+  text-align: center;
+  color: #f8eca6;
+  font-family: "Rock Salt", cursive;
+  font-size: 1.5em;
+  padding: .5rem;
+  
+  background-color: rgb(25, 11, 58);
 }
